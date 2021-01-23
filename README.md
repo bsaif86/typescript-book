@@ -15,14 +15,6 @@ Le livre est entièrement gratuit, vous pouvez donc copier-coller ce que vous vo
 * [Spanish](https://github.com/melissarofman/typescript-book)
 * [Korean](https://github.com/radlohead/typescript-book)
 
-## Autres options
-
-Vous pouvez également télécharger l'un des formats suivants :
-
-* [EPUB pour iPad, iPhone, Mac](https://www.gitbook.com/download/epub/book/basarat/typescript)
-* [PDF pour Windows and others](https://www.gitbook.com/download/pdf/book/basarat/typescript)
-* [MOBI pour Kindle](https://www.gitbook.com/download/mobi/book/basarat/typescript)
-
 ## Remerciement spécial
 
 Tous les incroyables [contributeurs](https://github.com/basarat/typescript-book/graphs/contributors) 🌹
